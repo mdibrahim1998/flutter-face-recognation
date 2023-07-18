@@ -1,0 +1,5 @@
+0 Associate Professor Department of CSE, Bsmrstu
+1 Assistant Professor Department of CSE, Bsmrstu
+2 Lecturer  Department of CSE, Bsmrstu
+3 Section officer  Department of  CSE
+4 student Department of  CSE
